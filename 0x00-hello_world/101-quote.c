@@ -8,7 +8,7 @@
 
 int main(void)
 {
-char e = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
- fwrite("%s", e, stderr);
+char *e = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+fwrite("%s", e, stderr);
 return (1);
 }
