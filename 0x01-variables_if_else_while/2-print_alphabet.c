@@ -5,13 +5,13 @@
  * return (0) - return nothing
  *	 */
 
-int main()
+int main(void)
 {
 	char alpha = 'a';
 	while (alpha <= 'z')
-	  {
+	{
 		putchar(alpha);
 		alpha++;
-	  }
+	}
 	putchar('\n');
-	return ();
+	return (0);
