@@ -1,17 +1,19 @@
-#include <stdio.h>
-/**
- *  main - where the program runs
- *
- * return () - return nothing
- */
-int main(void)
-{
-	char alpha = 'a';
-	while (alpha <= 'z')
-	{
-		putchar(alpha);
-		alpha++;
-	}
-	putchar('\n');
-	exit 0;
+#include <stdio.h>                                                                                                              
+/**                                                                                                                             
+ * main - entry point                                                                                                           
+ *                                                                                                                              
+ * Return: alway returns 0                                                                                                      
+ *                                                                                                                              
+ */                                                                                                                             
+int main(void)                                                                                                                  
+{                                                                                                                               
+        char a = 'a';                                                                                                                 
+                                                                                                                                
+        while (a <= 'z')
+        {
+            putchar(a);
+            a++;
+        }                                                                                                                                                                                                
+        putchar('\n');                                                                                                          
+        return (0);
 }
