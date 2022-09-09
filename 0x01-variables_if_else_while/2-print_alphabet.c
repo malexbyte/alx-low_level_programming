@@ -3,7 +3,7 @@
  *  main - where the program runs
  *
  * return (0) - return nothing
- *	 */
+ */
 
 int main(void)
 {
