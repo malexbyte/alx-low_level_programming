@@ -37,4 +37,10 @@ void print_alphabet(void);
  * used to print
  * for 
  */
+ int print_sign(int n);
+ /**
+ * void - used to return nothing
+ * used to print
+ * for 
+ */
 #endif
