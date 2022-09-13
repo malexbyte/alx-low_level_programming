@@ -13,5 +13,5 @@ while (al <= 'z')
     putchar(al)
     al++;
 }
-return (0);
+return (al);
 }

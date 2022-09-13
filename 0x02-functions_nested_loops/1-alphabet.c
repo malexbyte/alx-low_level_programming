@@ -7,10 +7,11 @@
 
 int main(void)
 {
-char alpha = 'a';
-do {
-_putchar(alpha);
-alpha++;
-} while (alpha <= 'z');
-return (alpha);
+char al = 'a';
+while (al <= 'z')
+{
+    putchar(al)
+    al++;
+}
+return (al);
 }
