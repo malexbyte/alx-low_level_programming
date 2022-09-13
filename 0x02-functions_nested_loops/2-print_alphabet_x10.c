@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet - its a function in the main header that allows us to print
+ * print_alphabet_x10 - its a function in the main header that allows us to print
  *
  * Return: Always returns 0
  */
