@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _islower - its a function in the main header that allows us to print
- * @c - an integer argument
+ * @c: an integer argument
  * Return: Always returns 0
  */
 
