@@ -43,4 +43,10 @@ void print_alphabet(void);
  * used to print
  * for 
  */
+ int _abs(int);
+ /**
+ * void - used to return nothing
+ * used to print
+ * for 
+ */
 #endif
