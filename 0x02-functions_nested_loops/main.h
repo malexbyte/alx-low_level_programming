@@ -49,4 +49,10 @@ void print_alphabet(void);
  * used to print
  * for 
  */
+int print_last_digit(int);
+/**
+ * int - an integer data type
+ * 
+ *
+ */
 #endif
