@@ -11,6 +11,6 @@ char alpha = 'a';
 do {
 _putchar(alpha);
 alpha++;
-} while(alpha <= 'z');
+} while (alpha <= 'z');
 return (alpha);
 }
