@@ -25,4 +25,10 @@ void print_alphabet(void);
  * print_alphabet - used to print
  * for alphabets
  */
+ int _islower(int c);
+  /**
+ * void - used to return nothing
+ * used to print
+ * for 
+ */
 #endif
