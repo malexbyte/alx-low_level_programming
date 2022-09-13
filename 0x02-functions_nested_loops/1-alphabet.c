@@ -12,5 +12,5 @@ do{
     _putchar(alpha);
     alpha ++;
 }while(alpha <= 'z');
-return (0);
+return (alpha);
 }
