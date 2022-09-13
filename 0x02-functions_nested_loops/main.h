@@ -13,7 +13,7 @@ int _putchar(char c);
  * _putchar - the "_" before the putchar is used when declaring a fuction
  * (char *c) - is the arguments passed
  */
- void print_alphabet(void);
+void print_alphabet(void);
  /**
  * void - used to return nothing
  * _putchar - the "_" before the putchar is used when declaring a fuction
