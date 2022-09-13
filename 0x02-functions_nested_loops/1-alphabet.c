@@ -8,9 +8,9 @@
 int main(void)
 {
 char alpha = 'a';
-do{
-    _putchar(alpha);
-    alpha ++;
-}while(alpha <= 'z');
+do {
+_putchar(alpha);
+alpha++;
+} while(alpha <= 'z');
 return (alpha);
 }
