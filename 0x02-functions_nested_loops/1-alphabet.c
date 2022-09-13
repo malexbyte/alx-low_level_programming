@@ -10,8 +10,9 @@ int main(void)
 char al = 'a';
 while (al <= 'z')
 {
-    putchar(al);
-    al++;
+_putchar(al);
+al++;
 }
+_putchar('\n');
 return (al);
 }
