@@ -14,5 +14,4 @@ _putchar(al);
 al++;
 }
 _putchar('\n');
-return (al);
 }
