@@ -16,7 +16,13 @@ int _putchar(char c);
 void print_alphabet(void);
  /**
  * void - used to return nothing
- * _putchar - the "_" before the putchar is used when declaring a fuction
+ * print_alphabet - used when declaring a fuction
+ * for alphabets
+ */
+ void print_alphabet_x10(void);
+  /**
+ * void - used to return nothing
+ * print_alphabet - used to print
  * for alphabets
  */
 #endif
