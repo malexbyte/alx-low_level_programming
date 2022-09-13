@@ -8,7 +8,8 @@
 int _islower(int c)
 {
 if (c >= 'a' && c <= 'z')
+{
 return (c);
-_putchar('\n');
+}
 return (0);
 }
