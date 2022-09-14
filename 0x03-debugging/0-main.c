@@ -3,7 +3,7 @@
 /**
 *main - prints integer or a negative integer
 *return - 0
-*
+*@i: variable of type integer
 */
 
 int main(void)
