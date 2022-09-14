@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
-*main - prints integer
+*main - prints integer or a negative integer
 *return - 0
+*
 */
 
 int main(void)
