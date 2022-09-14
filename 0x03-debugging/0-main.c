@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-*main - prints integer or a negative integer
-*return - 0
-*@i: variable of type integer
+* main - prints integer or a negative integer
+* Return: 0
+*
 */
 
 int main(void)
