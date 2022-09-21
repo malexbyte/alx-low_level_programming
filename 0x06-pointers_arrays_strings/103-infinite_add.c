@@ -3,7 +3,7 @@
 /**
  * infinite_add - adds two numbers.
  * @n1:char
- * @n2:char.
+ * @n2: char
  * @r:char
  * @size_r:int
  * Return:char.
