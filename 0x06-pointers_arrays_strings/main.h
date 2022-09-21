@@ -1,5 +1,5 @@
-#ifndef _HOLBERTON_H_
-#define _HOLBERTON_H_
+#ifndef _MAIN_H_
+#define _MAIN_H_
 /**
  * print_number- prints a number
  * @n: number to print to character
@@ -280,4 +280,6 @@ void swap_int(int *a, int *b);
  * Return: returns length
  */
 int _strlen(char *s);
+char *infinite_add(char *n1, char *n2, char *r, int size_r);
+void print_buffer(char *b, int size);
 #endif
