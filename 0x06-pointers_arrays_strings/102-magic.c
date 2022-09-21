@@ -1,12 +1,8 @@
 #include <stdio.h>
  /*
-   * write your line of code here...
-   * Remember:
-   * - you are not allowed to use a
-   * - you are not allowed to modify p
-   * main - where code runs
-   * Return: 0
-   */
+  * main - where code runs
+  * Return: 0
+  */
 int main(void)
 {
 int n;
