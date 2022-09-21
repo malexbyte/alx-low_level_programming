@@ -1,6 +1,6 @@
 #include <stdio.h>
  /*
-  * main - like a room where programs work
+  * main(void) - like a room where programs work
   * Return: 0
   */
 int main(void)
