@@ -342,4 +342,5 @@ void swap_int(int *a, int *b);
  * Return: returns length
  */
 int _strlen(char *s);
+void set_string(char **s, char *to);
 #endif
