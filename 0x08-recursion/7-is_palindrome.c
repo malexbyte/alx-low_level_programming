@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * length - helps do it
  * @s: string
