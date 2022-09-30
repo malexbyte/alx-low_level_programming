@@ -1,15 +1,15 @@
+#include "holberton.h"
 #include <stdio.h>
-
-
+#define UNUSED(x) (void)(x)
 /**
- * main - prints the name of the file
- * @argc: number of arguments passed at command
- * @argv: pointers to strings of arguments
- * Return: always 0
+ * main - main function
+ * @argc: argumentc
+ * @argv: vector of arguments
+ *Return: always 0
  */
 int main(int argc, char *argv[])
 {
-
+	UNUSED(argc);
 	printf("%s\n", argv[0]);
 	return (0);
 }

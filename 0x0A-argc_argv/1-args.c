@@ -1,6 +1,6 @@
-#include "main.h"
+#include "holberton.h"
 #include <stdio.h>
-
+#define UNUSED(x) (void)(x)
 /**
  * main - main function
  * @argc: argumentc
@@ -9,8 +9,7 @@
  */
 int main(int argc, char  *argv[])
 {
-
+	UNUSED(argv);
 	printf("%d\n", argc - 1);
-	(void)argc;
 	return (0);
 }
